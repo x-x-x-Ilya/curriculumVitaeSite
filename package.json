@@ -1,0 +1,23 @@
+{
+  "name": "curriculumvitaesite",
+  "version": "1.0.0",
+  "description": "https://github.com/x-x-x-Ilya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x-x-x-Ilya/curriculumVitaeSite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/x-x-x-Ilya/curriculumVitaeSite/issues"
+  },
+  "homepage": "https://github.com/x-x-x-Ilya/curriculumVitaeSite#readme",
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
+    "typescript": "^4.0.3"
+  }
+}
