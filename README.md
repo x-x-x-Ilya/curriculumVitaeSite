@@ -13,7 +13,7 @@
 
 ### Contacts
 
-- GitHub ![Alt text](<img src="https://img.icons8.com/metro/104/000000/github.png"/>"GitHub")
+-  [Alt text](<img src="https://img.icons8.com/metro/104/000000/github.png"/>"GitHub")
 
 - Linkedin
 
