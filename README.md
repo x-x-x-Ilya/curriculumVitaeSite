@@ -13,7 +13,7 @@
 
 ### Contacts
 
-- ![GitHub](https://img.icons8.com/metro/26/000000/github.png)
+![GitHub](https://img.icons8.com/metro/26/000000/github.png) github
 
 - Linkedin
 
