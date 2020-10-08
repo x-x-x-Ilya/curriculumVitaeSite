@@ -13,9 +13,9 @@
 
 ### Contacts
 
-![GitHub](https://img.icons8.com/metro/26/000000/github.png) github
+![26px](https://img.icons8.com/metro/16/000000/github.png) github
 
-- Linkedin
+![26px](https://img.icons8.com/android/14/000000/linkedin.png) linkedin
 
 - Email
 
