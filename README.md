@@ -13,6 +13,8 @@
 
 ### Contacts
 
+![Alt text](//img.icons8.com/metro/104/000000/github.png "Можно задать title")
+
 -  ![Alt text](<img src="https://img.icons8.com/metro/104/000000/github.png"/>"GitHub")
 
 - Linkedin
