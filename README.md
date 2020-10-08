@@ -1,5 +1,4 @@
 # Contents
-- Backend for curriculumVitaeSite
 - Short review
 - Dependencies
 - Description
@@ -8,9 +7,7 @@
 
 ***
 
-# Backend for curriculumVitaeSite
-
-## Short review
+# Short review
 
 
 # Dependencies
